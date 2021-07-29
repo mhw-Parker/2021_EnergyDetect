@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+  <Camera_Matrix_DAHUA_1 type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+      1811.5000000000 0.0000000000000 0.0000000000000
+      0.0000000000000 1682.2000000000 0.0000000000000
+      739.01440000000 541.77770000000 1.0000000000000
+    </data>
+  </Camera_Matrix_DAHUA_1>
+
+  <Distortion_Coefficients_DAHUA_1 type_id="opencv-matrix">
+    <rows>4</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>-0.0849 0.3338 0.000 0.0000
+    </data>
+  </Distortion_Coefficients_DAHUA_1>
+
+</opencv_storage>
